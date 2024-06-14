@@ -6,5 +6,32 @@ body {
 }
 
 header {
-    
+    position: sticky;
+    display: flex;
+    align-items: left;
+    top: 0;
+    color: whitesmoke;
+    background-color: #282828;
 }
+
+ul {
+    list-style-type: none;
+    padding: 25px;
+}
+
+.logo {
+    fontsize: 18px:
+    font-weight: 700;
+}
+
+.icon {
+    width: 25px;
+}
+
+h1 {
+    fontsize: 40pc;
+    font-weight: 400;
+    X-margin: 25px;
+    Y-margin: 30px;
+}
+
