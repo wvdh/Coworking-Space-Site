@@ -2,25 +2,14 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Montserrat", sans-serif;
-
+    color: #282828;
 }
 
 header {
-    position: sticky;
-    display: flex;
-    align-items: left;
-    top: 0;
     color: whitesmoke;
     background-color: #282828;
-}
-
-ul {
-    list-style-type: none;
-    padding: 25px;
-}
-
-li {
-    display: inline;
+    position: sticky;
+    top: 0;
 }
 
 .logo {
@@ -28,16 +17,37 @@ li {
     font-weight: 700;
 }
 
+ul {
+    display: flex;
+    list-style-type: none;
+    align-items: left;
+    margin: 0;
+    padding: 25px;
+    gap: 10px;
+}
+
 .icon {
     width: 25px;
 }
 
-h1 {
-    fontsize: 40pc;
-    font-weight: 400;
-    X-margin: 25px;
-    Y-margin: 30px;
+li {
+   cursor: pointer;
 }
+
+h1 {
+    font-size: 40px;
+    font-weight: 400;
+    margin: 30px 25px;
+}
+
+.logo {
+    fontsize: 18px:
+    font-weight: 700;
+}
+
+
+
+
 
 .caption {
     X-margin: 25px;
