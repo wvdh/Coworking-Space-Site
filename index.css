@@ -26,12 +26,12 @@ ul {
     gap: 10px;
 }
 
-.icon {
-    width: 25px;
-}
-
 li {
    cursor: pointer;
+}
+
+.icon {
+    width: 25px;
 }
 
 h1 {
@@ -40,15 +40,10 @@ h1 {
     margin: 30px 25px;
 }
 
-.logo {
-    fontsize: 18px:
-    font-weight: 700;
+.item-img {
+    width: 100%;
 }
 
 .caption {
     margin: 0px 25px;
-}
-
-.item-img {
-    width: 100%;
 }
