@@ -45,13 +45,8 @@ h1 {
     font-weight: 700;
 }
 
-
-
-
-
 .caption {
-    X-margin: 25px;
-    Y-margin: 0px;
+    margin: 0px 25px;
 }
 
 .item-img {
