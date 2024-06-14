@@ -34,6 +34,10 @@ li {
     width: 25px;
 }
 
+.align-right {
+    margin-left: auto;
+}
+
 h1 {
     font-size: 40px;
     font-weight: 400;
@@ -45,5 +49,5 @@ h1 {
 }
 
 .caption {
-    margin: 0px 25px;
+    margin: 0 25px;
 }
